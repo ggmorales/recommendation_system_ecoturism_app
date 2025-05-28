@@ -1,0 +1,16 @@
+[project]
+name = "hackathon-ecoturismo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "geopy>=2.4.1",
+    "numpy>=2.0.2",
+    "requests>=2.32.3",
+    "selenium>=4.31.0",
+    "streamlit>=1.44.1",
+    "streamlit-geolocation>=0.0.10",
+    "openai>=1.69.0",
+    "codecarbon>=3.0.0"
+]
