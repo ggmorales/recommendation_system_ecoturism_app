@@ -1,0 +1,138 @@
+{
+    "info_url": "https://www.komoot.com/es-es/discover/43.3199,-1.9247/@43.3199000,-1.9247000/tours?sport=hike&map=true",
+    "total": "1000+ Rutas",
+    "routes": [
+        {
+            "Categoría": "Moderada",
+            "Valoración (estrellas)": "4,7⭐",
+            "Nº valoraciones": "(125)",
+            "Personas que han hecho la ruta": "1.365",
+            "Nombre": "La Rhune desde Olhette",
+            "Duración": "04:52",
+            "Longitud": "10,8 km",
+            "Metros de ascenso": "760 m↗️",
+            "Metros de descenso": "770 m ↘️",
+            "Descripción": "Caminata moderada. Se necesita buena forma física. Sendas accesibles en su mayoría. Se requiere tener paso firme. La Ruta está a 21,5 km de 43.3199,-1.9247. Guardar"
+        },
+        {
+            "Categoría": "Difícil",
+            "Valoración (estrellas)": "4,7⭐",
+            "Nº valoraciones": "(126)",
+            "Personas que han hecho la ruta": "1.345",
+            "Nombre": "La Rhune por Ohlette",
+            "Duración": "04:42",
+            "Longitud": "9,76 km",
+            "Metros de ascenso": "760 m↗️",
+            "Metros de descenso": "760 m ↘️",
+            "Descripción": "Caminata difícil. Se necesita buena forma física. Se requiere tener paso firme, calzado adecuado y experiencia en alta montaña. La Ruta está a 21,5 km de 43.3199,-1.9247. Guardar"
+        },
+        {
+            "Categoría": "Moderada",
+            "Valoración (estrellas)": "4,8⭐",
+            "Nº valoraciones": "(103)",
+            "Personas que han hecho la ruta": "648",
+            "Nombre": "El camino costero del faro de Higuer - circular desde el faro",
+            "Duración": "02:27",
+            "Longitud": "7,81 km",
+            "Metros de ascenso": "120 m↗️",
+            "Metros de descenso": "120 m ↘️",
+            "Descripción": "Caminata moderada. Se necesita buena forma física. Sendas accesibles en su mayoría. Se requiere tener paso firme. La Ruta está a 13,4 km de 43.3199,-1.9247. El punto de inicio de la Ruta está junto a un aparcamiento. Guardar"
+        },
+        {
+            "Categoría": "Moderada",
+            "Valoración (estrellas)": "4,7⭐",
+            "Nº valoraciones": "(104)",
+            "Personas que han hecho la ruta": "381",
+            "Nombre": "Senderismo de Bizkartzun",
+            "Duración": "01:57",
+            "Longitud": "6,26 km",
+            "Metros de ascenso": "230 m↗️",
+            "Metros de descenso": "230 m ↘️",
+            "Descripción": "Caminata moderada. Para todos los niveles de forma física. Sendas accesibles en su mayoría. Se requiere tener paso firme. La Ruta está a 25,0 km de 43.3199,-1.9247. El punto de inicio de la Ruta está junto a un aparcamiento. Guardar"
+        },
+        {
+            "Categoría": "Fácil",
+            "Valoración (estrellas)": "4,5⭐",
+            "Nº valoraciones": "(56)",
+            "Personas que han hecho la ruta": "584",
+            "Nombre": "Monte Urgull y tour por la ciudad en el casco antiguo de San Sebastian",
+            "Duración": "01:22",
+            "Longitud": "4,71 km",
+            "Metros de ascenso": "110 m↗️",
+            "Metros de descenso": "110 m ↘️",
+            "Descripción": "Caminata fácil. Para todos los niveles de forma física. Sendas de fácil acceso. Para todos los niveles. La Ruta está a 4,70 km de 43.3199,-1.9247. El punto de inicio de la Ruta está junto a un aparcamiento. Guardar"
+        },
+        {
+            "Categoría": "Difícil",
+            "Valoración (estrellas)": "4,7⭐",
+            "Nº valoraciones": "(51)",
+            "Personas que han hecho la ruta": "477",
+            "Nombre": "Peñas de Aia: Erroilbide, Txurrumurru, Irumugarrieta y Muganix — ruta circular por el Parque Natural Aiako Harria",
+            "Duración": "03:12",
+            "Longitud": "7,47 km",
+            "Metros de ascenso": "410 m↗️",
+            "Metros de descenso": "410 m ↘️",
+            "Descripción": "Caminata difícil. Se necesita buena forma física. Se requiere tener paso firme, calzado adecuado y experiencia en alta montaña. La Ruta está a 11,5 km de 43.3199,-1.9247. El punto de inicio de la Ruta está junto a un aparcamiento. Guardar"
+        },
+        {
+            "Categoría": "Moderada",
+            "Valoración (estrellas)": "4,2⭐",
+            "Nº valoraciones": "(30)",
+            "Personas que han hecho la ruta": "158",
+            "Nombre": "Monte Ulia y Cala Irurdieta — ruta circular por los miradores del Cantábrico",
+            "Duración": "02:30",
+            "Longitud": "7,73 km",
+            "Metros de ascenso": "350 m↗️",
+            "Metros de descenso": "350 m ↘️",
+            "Descripción": "Caminata moderada. Se necesita buena forma física. Sendas de fácil acceso. Para todos los niveles. La Ruta está a 3,80 km de 43.3199,-1.9247. El punto de inicio de la Ruta está junto a un aparcamiento. Guardar"
+        },
+        {
+            "Categoría": "Moderada",
+            "Valoración (estrellas)": "4,7⭐",
+            "Nº valoraciones": "(35)",
+            "Personas que han hecho la ruta": "172",
+            "Nombre": "Playas de flysch de Zumaia — circular por el Geoparque de la Costa Vasca",
+            "Duración": "02:22",
+            "Longitud": "8,12 km",
+            "Metros de ascenso": "220 m↗️",
+            "Metros de descenso": "210 m ↘️",
+            "Descripción": "Caminata moderada. Se necesita buena forma física. Sendas accesibles en su mayoría. Se requiere tener paso firme. La Ruta está a 26,9 km de 43.3199,-1.9247. El punto de inicio de la Ruta está junto a un aparcamiento. Guardar"
+        },
+        {
+            "Categoría": "Moderada",
+            "Valoración (estrellas)": "4,8⭐",
+            "Nº valoraciones": "(30)",
+            "Personas que han hecho la ruta": "472",
+            "Nombre": "Hernio y Gazume desde Iturriotz",
+            "Duración": "03:37",
+            "Longitud": "8,54 km",
+            "Metros de ascenso": "530 m↗️",
+            "Metros de descenso": "530 m ↘️",
+            "Descripción": "Caminata moderada. Se necesita buena forma física. Sendas accesibles en su mayoría. Se requiere tener paso firme. La Ruta está a 22,9 km de 43.3199,-1.9247. El punto de inicio de la Ruta está junto a un aparcamiento. Guardar"
+        },
+        {
+            "Categoría": "Fácil",
+            "Valoración (estrellas)": "4,5⭐",
+            "Nº valoraciones": "(11)",
+            "Personas que han hecho la ruta": "502",
+            "Nombre": "Playa de La Concha y Peine del Viento",
+            "Duración": "01:20",
+            "Longitud": "5,08 km",
+            "Metros de ascenso": "40 m↗️",
+            "Metros de descenso": "40 m ↘️",
+            "Descripción": "Caminata fácil. Para todos los niveles de forma física. Sendas de fácil acceso. Para todos los niveles. La Ruta está a 4,83 km de 43.3199,-1.9247. El punto de inicio de la Ruta está junto a un aparcamiento. Guardar"
+        },
+        {
+            "Categoría": "Moderada",
+            "Valoración (estrellas)": "4,7⭐",
+            "Nº valoraciones": "(53)",
+            "Personas que han hecho la ruta": "238",
+            "Nombre": "Cascada de Aitzondo (SL-Gi 1006) — ruta circular por el Parque Natural Aiako Harria",
+            "Duración": "02:08",
+            "Longitud": "6,57 km",
+            "Metros de ascenso": "220 m↗️",
+            "Metros de descenso": "220 m ↘️",
+            "Descripción": "Caminata moderada. Se necesita buena forma física. Sendas accesibles en su mayoría. Se requiere tener paso firme. La Ruta está a 12,0 km de 43.3199,-1.9247. El punto de inicio de la Ruta es accesible en transporte público. Guardar"
+        }
+    ]
+}
