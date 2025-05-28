@@ -1,0 +1,18 @@
+
+EMISIONES DEL CÓDIGO COMPLETO FINAL con GPT4o mini:
+
+- Arrancar la app: 1.602683111143415e-06 kg CO₂eq
+- Geolocalización automática: 1.3019803255253162e-06 kg CO₂eq
+- Generar reporte: 2.0958849382231063e-06 kg CO₂eq
+- Web scraping de rutas: 9.012490505220662e-05 kg CO₂eq
+- Informe de recomendación de rutas y actividades por perfil (TAG):0.00011923258841381465 kg CO₂eq
+- Informe de impacto ambiental (TAG): 0.00012867474501472153 kg CO₂eq 
+- Traducción de texto: 0.00011324003353953964 kg CO₂eq
+- Análisis de ley medioambiental (RAG): 2.398643765243307e-05 kg CO₂eq
+
+
+Nota: En cada ejecución las emisiones cambian, pero siempre rondan valores aproximados.
+
+
+
+
