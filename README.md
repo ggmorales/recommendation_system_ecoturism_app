@@ -54,7 +54,7 @@ Esto iniciará la aplicación de **Streamlit**, proporcionando una interfaz web 
 ## Descripción  
 A partir de unas coordenadas, bien ingresadas por el usuario a mano, o bien pulsando en el botón de geolocalización automática, se ha desarrollado un avanzado sistema de recomendación de áreas de ecoturismo cercanas. Este sistema genera un reporte detallado que incluye información sobre los espacios naturales protegidos más próximos (Parques Nacionales, Parques Red Natura, monumentos naturales, etc.) las especies de flora y fauna de interés, los tipos de hábitats existentes y las posibles rutas de senderismo en la zona, además de la distancia de cada una de estas atracciones turísticas.
 
-### Interfaz que se muestra al acceder al app: 
+### Interfaz que se muestra al acceder a la app: 
 
 <img src="image_readme/image.png" width="800"/>
 
@@ -117,7 +117,7 @@ Una tercera parte de la aplicación permite evaluar la regulación de ciertas ac
 
 <img src="image_readme/image-15.png" width="800"/>
 
-Por último, funcionalidad clave de la aplicación será la traducción automática de todos los informes generados a catalán, gallego y euskera, utilizando IA generativa. Este sistema permitirá adaptar la información a diferentes usuarios, garantizando el acceso a contenidos clave en su idioma preferido. La traducción se realizará de manera precisa, preservando la estructura y el significado original de los informes, facilitando su comprensión y aplicación en distintos contextos.
+Por último, una funcionalidad clave de la aplicación será la traducción automática de todos los informes generados a catalán, gallego y euskera, utilizando IA generativa. Este sistema permitirá adaptar la información a diferentes usuarios, garantizando el acceso a contenidos clave en su idioma preferido. La traducción se realizará de manera precisa, preservando la estructura y el significado original de los informes, facilitando su comprensión y aplicación en distintos contextos.
 
 ### Traduccion de los informe a catalán, gallego y euskera:  
 
